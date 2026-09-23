@@ -60,7 +60,7 @@
 
 ### データ構造
 
-```Mermaid
+```mermaid
 classDiagram
     class Root["ルートオブジェクト"]
     class LargeItem["大項目"]
