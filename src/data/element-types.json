@@ -1,0 +1,17 @@
+[
+  {
+    "type": "string",
+    "label": "文字列",
+    "description": "任意のテキスト"
+  },
+  {
+    "type": "integer",
+    "label": "整数",
+    "description": "小数点を含まない数値"
+  },
+  {
+    "type": "number",
+    "label": "実数",
+    "description": "小数点以下を含む数値"
+  }
+]
